@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lariville
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://lariville.github.io
+  * I am lariville (https://keybase.io/lariville) on keybase.
+  * I have a public key ASCNrEu1ekMOHLp49B9PhNTM6SEpJ2wwR7u_IXFw6aqOtwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c90d47ffc1c60b7e78698653b249d6e1af86ba7c6bccdd7db8bb337224eb8cbc0a",
+      "host": "keybase.io",
+      "kid": "01208dac4bb57a430e1cba78f41f4f84d4cce92129276c3047bbbf217170e9aa8eb70a",
+      "uid": "ab872e0b0b5d5f3d66d36984c7db7119",
+      "username": "lariville"
+    },
+    "merkle_root": {
+      "ctime": 1715880257,
+      "hash": "b66e9009ec947ab5fdc2576c34690934a19a3fdd71df4aab460740c3c119ac5b2f969c8f379fb88cc1432c52713cefb50012bcbb5bfb61fbe5b2a666d4b31031",
+      "hash_meta": "86de84541fe0d064d3211d4bc20748ae5bc27e60f50d49d8f32a0d8959c7d9eb",
+      "seqno": 25731216
+    },
+    "service": {
+      "entropy": "NTspTvnqeCb7SFLJPdGZibVX",
+      "hostname": "lariville.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.8"
+  },
+  "ctime": 1715880380,
+  "expire_in": 504576000,
+  "prev": "04cc967e9005ca4af3198c56d26d982d17838e6daff213297d61772dedade4fe",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgjaxLtXpDDhy6ePQfT4TUzOkhKSdsMEe7vyFxcOmqjrcKp3BheWxvYWTESpcCGcQgBMyWfpAFykrzGYxW0m2YLReDjm2v8hMpfWF3Le2t5P7EICXWGz4wUdtyDSqu/sT0SSn6/GuyfWnijGYLKY42ih/yAgHCo3NpZ8RAIFyzdSGUpnXqRERiad+okxiszaWYtWy76Y+gw3lmna/rNlqm7cihTuA7dwkMLmYL5THhq7xMYbsTXG7ClW8aDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBMIdiBQ7ICGa5wZBpAo0YSgHhPQdqyCBgr29eExGTbNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lariville
+
+==================================================================
